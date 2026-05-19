@@ -122,7 +122,7 @@ lle_mean = ld["lle_mean"]
 
 C = lle_mean.T
 vmax = 0.30
-vmin = -1.0
+vmin = -0.3
 
 norm = colors.TwoSlopeNorm(vmin=vmin, vcenter=0.0, vmax=vmax)
 
