@@ -1,0 +1,11 @@
+# Default GPU setup: CUDA 12 JAX wheels.
+diffrax>=0.7.0
+jax[cuda12]>=0.8.2
+jupytext>=1.19.1
+matplotlib>=3.10.8
+networkx>=3.6.1
+numpy>=2.4.1
+torch>=2.9.1
+torchvision>=0.24.1
+tqdm>=4.67.1
+utils>=1.0.2
